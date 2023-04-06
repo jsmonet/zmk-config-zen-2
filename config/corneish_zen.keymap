@@ -18,7 +18,7 @@
 / {
         combos {
                 compatible = "zmk,combos";
-                COMBO(LGUI, 21 22)
+                COMBO(RGUI, 21 22)
                 COMBO(LGUI, 13 14)
                 COMBO(RSHIFT, 20 21)
                 COMBO(LSHIFT, 14 15)
