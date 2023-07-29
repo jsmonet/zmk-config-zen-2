@@ -25,9 +25,7 @@
         combos {
                 compatible = "zmk,combos";
                 COMBO(RGUI, 21 22)
-                COMBO(LGUI, 13 14)
                 COMBO(RSHIFT, 20 21)
-                COMBO(LSHIFT, 14 15)
                 COMBO(LCTRL, 19 22)
         };
 };
